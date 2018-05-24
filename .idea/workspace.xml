@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7913775-8c88-4661-8340-c3c536884eaf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin-course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-course/META-INF/kotlin-course.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-course/fundamentals/CommentsKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-course/fundamentals/ConstJavaKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-course/fundamentals/FunctionsKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-course/fundamentals/HelloWorldKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-course/fundamentals/TypesKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/kotlin-course/fundamentals/VariablesAndConstantsKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/Comments.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/ConstJava.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/Functions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/HelloWorld.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/Types.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentals/VariablesAndConstants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentals/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentals/Functions.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,29 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Functions.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fundamentals/Functions.kt">
+      <file leaf-file-name="ifelse.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fundamentals/control/ifelse.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="202">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kotlin-course.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kotlin-course.iml">
+      <file leaf-file-name="elseif_.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fundamentals/control/elseif_.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="refactoringWhen.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fundamentals/control/refactoringWhen.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -92,8 +73,20 @@
         <option value="$PROJECT_DIR$/src/fundamentals/Variables.kt" />
         <option value="$PROJECT_DIR$/src/fundamentals/ConstJava.kt" />
         <option value="$PROJECT_DIR$/src/fundamentals/Types.kt" />
-        <option value="$PROJECT_DIR$/src/fundamentals/Functions.kt" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/fundamentals/Functions.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/TemplateString.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/SafeCall.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/ElvisOperator.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/ForcedNullPointerException.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/packageB/Mathematics.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/packageA/Mix.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/ImportTest.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/Control/If.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/control/If.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/control/ifelse.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/control/elseif_.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/control/refactoringWhen.kt" />
       </list>
     </option>
   </component>
@@ -101,6 +94,9 @@
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="778" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -114,17 +110,36 @@
               <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="control" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,7 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.fundamentals.FunctionsKt">
+  <component name="RunManager" selected="Kotlin.fundamentals.control.RefactoringWhenKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -158,54 +173,54 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="fundamentals.CommentsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentals.ImportTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.CommentsKt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.ImportTestKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="fundamentals.ConstJavaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentals.control.Elseif_Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.ConstJavaKt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.control.Elseif_Kt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="fundamentals.FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentals.control.IfKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.FunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.control.IfKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="fundamentals.TypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentals.control.IfelseKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.TypesKt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.control.IfelseKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="fundamentals.VariablesAndConstantsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentals.control.RefactoringWhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.VariablesAndConstantsKt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.control.RefactoringWhenKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -231,19 +246,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.fundamentals.CommentsKt" />
-      <item itemvalue="Kotlin.fundamentals.VariablesAndConstantsKt" />
-      <item itemvalue="Kotlin.fundamentals.ConstJavaKt" />
-      <item itemvalue="Kotlin.fundamentals.TypesKt" />
-      <item itemvalue="Kotlin.fundamentals.FunctionsKt" />
+      <item itemvalue="Kotlin.fundamentals.ImportTestKt" />
+      <item itemvalue="Kotlin.fundamentals.control.IfKt" />
+      <item itemvalue="Kotlin.fundamentals.control.IfelseKt" />
+      <item itemvalue="Kotlin.fundamentals.control.Elseif_Kt" />
+      <item itemvalue="Kotlin.fundamentals.control.RefactoringWhenKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.fundamentals.FunctionsKt" />
-        <item itemvalue="Kotlin.fundamentals.TypesKt" />
-        <item itemvalue="Kotlin.fundamentals.ConstJavaKt" />
-        <item itemvalue="Kotlin.fundamentals.VariablesAndConstantsKt" />
-        <item itemvalue="Kotlin.fundamentals.CommentsKt" />
+        <item itemvalue="Kotlin.fundamentals.control.RefactoringWhenKt" />
+        <item itemvalue="Kotlin.fundamentals.control.Elseif_Kt" />
+        <item itemvalue="Kotlin.fundamentals.control.IfelseKt" />
+        <item itemvalue="Kotlin.fundamentals.control.IfKt" />
+        <item itemvalue="Kotlin.fundamentals.ImportTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -261,17 +276,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="778" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32954547" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50078124" side_tool="true" weight="0.32954547" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.32954547" />
+      <window_info anchor="right" x="0" y="0" width="270" height="578" id="Documentation" order="8" side_tool="true" weight="0.3296875" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -280,32 +297,34 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" x="0" y="0" width="270" height="578" id="Documentation" order="3" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32954547" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fundamentals/Functions.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -360,12 +379,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/Functions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/kotlin-course.iml">
       <provider selected="true" editor-type-id="text-editor">
@@ -374,10 +389,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="135">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/TemplateString.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/SafeCall.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/ForcedNullPointerException.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/ElvisOperator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/packageB/Mathematics.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/Functions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/packageA/Mix.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/control/If.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/ImportTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="e#22#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/control/ifelse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/control/elseif_.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/control/refactoringWhen.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
