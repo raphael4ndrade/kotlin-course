@@ -14,29 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Relation.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fundamentals/operators/Relation.kt">
+      <file leaf-file-name="FunctionAsParam.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/functions/FunctionAsParam.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Logics.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fundamentals/operators/Logics.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unary.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fundamentals/operators/Unary.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="225">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -96,11 +78,26 @@
         <option value="$PROJECT_DIR$/src/fundamentals/operators/Relation.kt" />
         <option value="$PROJECT_DIR$/src/fundamentals/operators/Logics.kt" />
         <option value="$PROJECT_DIR$/src/fundamentals/operators/Unary.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/operators/TernaryEfect.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/ParseNumberString.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/TypeCheck.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/SmartCast.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentals/CastOperator.kt" />
+        <option value="$PROJECT_DIR$/src/functions/TopLevel.kt" />
+        <option value="$PROJECT_DIR$/src/functions/ParameterNaming.kt" />
+        <option value="$PROJECT_DIR$/src/functions/NamedArgs.kt" />
+        <option value="$PROJECT_DIR$/src/functions/Parameters.kt" />
+        <option value="$PROJECT_DIR$/src/functions/StandardParams.kt" />
+        <option value="$PROJECT_DIR$/src/functions/MultiReturn.kt" />
+        <option value="$PROJECT_DIR$/src/functions/SecondElementList.kt" />
+        <option value="$PROJECT_DIR$/src/functions/VarArgs.kt" />
+        <option value="$PROJECT_DIR$/src/functions/InfixFunction.kt" />
+        <option value="$PROJECT_DIR$/src/functions/UnitReturn.kt" />
+        <option value="$PROJECT_DIR$/src/functions/FunctionAsParam.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="640" />
     <option name="y" value="22" />
     <option name="width" value="640" />
     <option name="height" value="778" />
@@ -131,14 +128,7 @@
               <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="operators" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.fundamentals.operators.UnaryKt">
+  <component name="RunManager" selected="Kotlin.functions.FunctionAsParamKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -188,54 +178,54 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="fundamentals.operators.AritmeticsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="functions.FunctionAsParamKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.operators.AritmeticsKt" />
+      <option name="MAIN_CLASS_NAME" value="functions.FunctionAsParamKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="fundamentals.operators.DestructuringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="functions.InfixFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.operators.DestructuringKt" />
+      <option name="MAIN_CLASS_NAME" value="functions.InfixFunctionKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="fundamentals.operators.LogicsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="functions.SecondElementListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.operators.LogicsKt" />
+      <option name="MAIN_CLASS_NAME" value="functions.SecondElementListKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="fundamentals.operators.RelationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="functions.UnitReturnKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.operators.RelationKt" />
+      <option name="MAIN_CLASS_NAME" value="functions.UnitReturnKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="fundamentals.operators.UnaryKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="functions.VarArgsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.operators.UnaryKt" />
+      <option name="MAIN_CLASS_NAME" value="functions.VarArgsKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -261,19 +251,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.fundamentals.operators.DestructuringKt" />
-      <item itemvalue="Kotlin.fundamentals.operators.AritmeticsKt" />
-      <item itemvalue="Kotlin.fundamentals.operators.RelationKt" />
-      <item itemvalue="Kotlin.fundamentals.operators.LogicsKt" />
-      <item itemvalue="Kotlin.fundamentals.operators.UnaryKt" />
+      <item itemvalue="Kotlin.functions.SecondElementListKt" />
+      <item itemvalue="Kotlin.functions.VarArgsKt" />
+      <item itemvalue="Kotlin.functions.InfixFunctionKt" />
+      <item itemvalue="Kotlin.functions.UnitReturnKt" />
+      <item itemvalue="Kotlin.functions.FunctionAsParamKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.fundamentals.operators.UnaryKt" />
-        <item itemvalue="Kotlin.fundamentals.operators.LogicsKt" />
-        <item itemvalue="Kotlin.fundamentals.operators.RelationKt" />
-        <item itemvalue="Kotlin.fundamentals.operators.AritmeticsKt" />
-        <item itemvalue="Kotlin.fundamentals.operators.DestructuringKt" />
+        <item itemvalue="Kotlin.functions.FunctionAsParamKt" />
+        <item itemvalue="Kotlin.functions.UnitReturnKt" />
+        <item itemvalue="Kotlin.functions.InfixFunctionKt" />
+        <item itemvalue="Kotlin.functions.VarArgsKt" />
+        <item itemvalue="Kotlin.functions.SecondElementListKt" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +281,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="640" y="22" width="640" height="778" extended-state="0" />
+    <frame x="0" y="22" width="640" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -307,7 +297,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -327,20 +317,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/control/ifelse.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/control/elseif_.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fundamentals/control/refactoringWhen.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -561,10 +537,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/operators/Relation.kt">
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/operators/Unary.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -575,10 +551,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/operators/Unary.kt">
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/operators/Relation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/ParseNumberString.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/operators/TernaryEfect.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/SmartCast.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/TypeCheck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentals/CastOperator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/TopLevel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/NamedArgs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/Parameters.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/StandardParams.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/MultiReturn.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/VarArgs.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/SecondElementList.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/InfixFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/UnitReturn.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/FunctionAsParam.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
