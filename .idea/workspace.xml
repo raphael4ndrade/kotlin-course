@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c7913775-8c88-4661-8340-c3c536884eaf" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functions/FunctionAsParam.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions/FunctionAsParam.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +13,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="InitBlock.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classes/InitBlock.kt">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Enum.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/Enum.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enum2.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classes/Enum2.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -50,12 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/fundamentals/Functions.kt" />
-        <option value="$PROJECT_DIR$/src/fundamentals/TemplateString.kt" />
-        <option value="$PROJECT_DIR$/src/fundamentals/SafeCall.kt" />
-        <option value="$PROJECT_DIR$/src/fundamentals/ElvisOperator.kt" />
-        <option value="$PROJECT_DIR$/src/fundamentals/ForcedNullPointerException.kt" />
         <option value="$PROJECT_DIR$/src/fundamentals/packageB/Mathematics.kt" />
         <option value="$PROJECT_DIR$/src/fundamentals/packageA/Mix.kt" />
         <option value="$PROJECT_DIR$/src/fundamentals/ImportTest.kt" />
@@ -101,6 +103,12 @@
         <option value="$PROJECT_DIR$/src/classes/Constructor.kt" />
         <option value="$PROJECT_DIR$/src/classes/Constructor2.kt" />
         <option value="$PROJECT_DIR$/src/classes/InitBlock.kt" />
+        <option value="$PROJECT_DIR$/src/classes/GettersAndSetters.kt" />
+        <option value="$PROJECT_DIR$/src/classes/GettersCalc.kt" />
+        <option value="$PROJECT_DIR$/src/classes/Members2.kt" />
+        <option value="$PROJECT_DIR$/src/classes/ByReference.kt" />
+        <option value="$PROJECT_DIR$/src/classes/Enum.kt" />
+        <option value="$PROJECT_DIR$/src/classes/Enum2.kt" />
       </list>
     </option>
   </component>
@@ -117,6 +125,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,9 +149,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.classes.InitBlockKt">
+  <component name="RunManager" selected="Kotlin.classes.Enum2Kt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -185,54 +193,54 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="classes.ClassVsDataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="classes.ByReferenceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.ClassVsDataClassKt" />
+      <option name="MAIN_CLASS_NAME" value="classes.ByReferenceKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="classes.Constructor2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="classes.Enum2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.Constructor2Kt" />
+      <option name="MAIN_CLASS_NAME" value="classes.Enum2Kt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="classes.ConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="classes.EnumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.ConstructorKt" />
+      <option name="MAIN_CLASS_NAME" value="classes.EnumKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="classes.InitBlockKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="classes.GettersCalcKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.InitBlockKt" />
+      <option name="MAIN_CLASS_NAME" value="classes.GettersCalcKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="classes.TypesVariablesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="classes.Members2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.TypesVariablesKt" />
+      <option name="MAIN_CLASS_NAME" value="classes.Members2Kt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -258,19 +266,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.classes.TypesVariablesKt" />
-      <item itemvalue="Kotlin.classes.ClassVsDataClassKt" />
-      <item itemvalue="Kotlin.classes.ConstructorKt" />
-      <item itemvalue="Kotlin.classes.Constructor2Kt" />
-      <item itemvalue="Kotlin.classes.InitBlockKt" />
+      <item itemvalue="Kotlin.classes.GettersCalcKt" />
+      <item itemvalue="Kotlin.classes.Members2Kt" />
+      <item itemvalue="Kotlin.classes.ByReferenceKt" />
+      <item itemvalue="Kotlin.classes.EnumKt" />
+      <item itemvalue="Kotlin.classes.Enum2Kt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.classes.InitBlockKt" />
-        <item itemvalue="Kotlin.classes.Constructor2Kt" />
-        <item itemvalue="Kotlin.classes.ConstructorKt" />
-        <item itemvalue="Kotlin.classes.ClassVsDataClassKt" />
-        <item itemvalue="Kotlin.classes.TypesVariablesKt" />
+        <item itemvalue="Kotlin.classes.Enum2Kt" />
+        <item itemvalue="Kotlin.classes.EnumKt" />
+        <item itemvalue="Kotlin.classes.ByReferenceKt" />
+        <item itemvalue="Kotlin.classes.Members2Kt" />
+        <item itemvalue="Kotlin.classes.GettersCalcKt" />
       </list>
     </recent_temporary>
   </component>
@@ -300,11 +308,11 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50078124" side_tool="true" weight="0.32954547" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27578124" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27578124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -324,44 +332,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/Comments.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/TemplateString.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/SafeCall.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/ForcedNullPointerException.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fundamentals/ElvisOperator.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -672,8 +642,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/InitBlock.kt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/GettersAndSetters.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/ByReference.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Members2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/GettersCalc.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Enum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Enum2.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
