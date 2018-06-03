@@ -13,26 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Enum.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/Enum.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Enum2.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/classes/Enum2.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,10 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/fundamentals/packageB/Mathematics.kt" />
-        <option value="$PROJECT_DIR$/src/fundamentals/packageA/Mix.kt" />
-        <option value="$PROJECT_DIR$/src/fundamentals/ImportTest.kt" />
-        <option value="$PROJECT_DIR$/src/fundamentals/Control/If.kt" />
         <option value="$PROJECT_DIR$/src/fundamentals/control/If.kt" />
         <option value="$PROJECT_DIR$/src/fundamentals/control/ifelse.kt" />
         <option value="$PROJECT_DIR$/src/fundamentals/control/elseif_.kt" />
@@ -109,6 +86,10 @@
         <option value="$PROJECT_DIR$/src/classes/ByReference.kt" />
         <option value="$PROJECT_DIR$/src/classes/Enum.kt" />
         <option value="$PROJECT_DIR$/src/classes/Enum2.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/Lambda.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/Lambda2.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/SortedBy.kt" />
+        <option value="$PROJECT_DIR$/src/lambdas/Filter.kt" />
       </list>
     </option>
   </component>
@@ -125,8 +106,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,13 +124,13 @@
               <item name="kotlin-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="kotlin-course" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.classes.Enum2Kt">
+  <component name="RunManager" selected="Kotlin.lambdas.FilterKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -193,16 +174,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="classes.ByReferenceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-course" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.ByReferenceKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
     <configuration name="classes.Enum2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
@@ -213,34 +184,44 @@
       <option name="MAIN_CLASS_NAME" value="classes.Enum2Kt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="classes.EnumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lambdas.FilterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.EnumKt" />
+      <option name="MAIN_CLASS_NAME" value="lambdas.FilterKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="classes.GettersCalcKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lambdas.Lambda2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.GettersCalcKt" />
+      <option name="MAIN_CLASS_NAME" value="lambdas.Lambda2Kt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="classes.Members2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lambdas.LambdaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin-course" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="classes.Members2Kt" />
+      <option name="MAIN_CLASS_NAME" value="lambdas.LambdaKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="lambdas.SortedByKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-course" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="lambdas.SortedByKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -266,19 +247,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.classes.GettersCalcKt" />
-      <item itemvalue="Kotlin.classes.Members2Kt" />
-      <item itemvalue="Kotlin.classes.ByReferenceKt" />
-      <item itemvalue="Kotlin.classes.EnumKt" />
       <item itemvalue="Kotlin.classes.Enum2Kt" />
+      <item itemvalue="Kotlin.lambdas.LambdaKt" />
+      <item itemvalue="Kotlin.lambdas.Lambda2Kt" />
+      <item itemvalue="Kotlin.lambdas.SortedByKt" />
+      <item itemvalue="Kotlin.lambdas.FilterKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.lambdas.FilterKt" />
+        <item itemvalue="Kotlin.lambdas.SortedByKt" />
+        <item itemvalue="Kotlin.lambdas.Lambda2Kt" />
+        <item itemvalue="Kotlin.lambdas.LambdaKt" />
         <item itemvalue="Kotlin.classes.Enum2Kt" />
-        <item itemvalue="Kotlin.classes.EnumKt" />
-        <item itemvalue="Kotlin.classes.ByReferenceKt" />
-        <item itemvalue="Kotlin.classes.Members2Kt" />
-        <item itemvalue="Kotlin.classes.GettersCalcKt" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +278,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="778" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -307,8 +287,8 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50078124" side_tool="true" weight="0.32954547" />
       <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49921876" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -317,8 +297,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -332,34 +312,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/ElvisOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/packageB/Mathematics.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/Functions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fundamentals/packageA/Mix.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fundamentals/control/If.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -675,6 +627,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Enum2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/Enum.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -682,7 +641,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/Enum2.kt">
+    <entry file="file://$PROJECT_DIR$/src/lambdas/SortedBy.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdas/Lambda2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdas/Lambda.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambdas/Filter.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
